@@ -1,0 +1,35 @@
+License Agreement
+
+ 
+
+This is a legal agreement between you, the "END USER", and Fincodr. Use of this software (the "SOFTWARE")
+
+written by Fincodr indicates your acceptance of these terms.
+
+ 
+
+1. GRANT OF LICENSE. Fincodr hereby grants you the right to use the SOFTWARE on a single computer. The SOFTWARE is considered in use on a computer when it is loaded into temporary memory or installed into permanent memory.
+
+ 
+
+2. PROPRIETARY RIGHTS. The SOFTWARE is owned exclusively by Fincodr, and this license does not transfer any ownership of the SOFTWARE to you.
+
+ 
+
+3. NON PERMITTED USES. You may not translate, reverse program, disassemble,
+
+decompile or otherwise reverse engineer the SOFTWARE.
+
+ 
+
+4. NO WARRANTY. THIS SOFTWARE IS LICENSED TO YOU "AS IS," AND WITHOUT ANY  WARRANTY OF ANY KIND, WHETHER ORAL, WRITTEN, EXPRESS, IMPLIED OR STATUTORY, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  Fincodr DOES NOT WARRANT THAT THIS SOFTWARE DOES NOT INFRINGE ANY RIGHTS OF THIRD PARTIES.
+
+ 
+
+5. LIMITATION OF LIABILITY. Fincodr grants the license to the SOFTWARE hereunder and the END USER accepts the use hereof on an "AS IS" and "WITH ALL FAULTS" basis.  Furthermore, the END USER understands and agrees that IN NO EVENT WILL Fincodr OR ANY OF ITS SUPPLIERS BE LIABLE TO LICENSEE FOR SPECIAL OR CONSEQUENTIAL DAMAGES which might arise out of or in connection with the performance or non-performance of this Agreement or of the SOFTWARE hereunder, even if Fincodr has been advised of the possibility of such damages, INCLUDING, BUT NOT LIMITED TO, LOST PROFITS due to errors, inaccuracies, omissions, incompleteness or insufficiency of the SOFTWARE or materials, nor for the usefulness of the SOFTWARE to the END USER.  In no event shall Fincodr'S liability related
+
+to any of the SOFTWARE exceed the license fees, if any, actually paid by you for
+
+the SOFTWARE.  Fincodr shall not be liable for any damages whatsoever arising out of or related to the use of or inability to use the SOFTWARE,
+
+including but not limited to direct, indirect, special, incidental, or consequential damages. 
